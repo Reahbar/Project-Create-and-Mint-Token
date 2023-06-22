@@ -22,7 +22,7 @@ To run this program, you need to install and open Remix - Ethereum IDE and Visua
   Create a TypeScript project
   Create an empty hardhat.config.js
   Quit
-> You can choose Create a JavaScript project then you need to type npx hardhat node then you will see bunch of accounts are opened. then open Remix - Ethereum IDE then create a file by any name in the end add .sol for an example Project.sol then pasted the down below code then you need compile by clicking on SOLIDITY COMPILER then you need to click on DEPLOY & RUN TRANSACTIONS then click on ENVIRONMENT then select the Dev - Hardhat Provide then you need to deploy the contract by clicking on the deploy button then you can test the functions which is defined in the contract.
+> You can choose Create a JavaScript project then you need to type npm install --save-dev @nomicfoundation/hardhat-toolbox then you need to type npx hardhat node then it will display bunch of accounts with thier private keys and public keys. Now open Remix - Ethereum IDE then create a file by any name in the end add .sol for an example Project.sol then pasted the down below code then you need compile by clicking on SOLIDITY COMPILER then you need to click on DEPLOY & RUN TRANSACTIONS then click on ENVIRONMENT then select the Dev - Hardhat Provide then you need to deploy the contract by clicking on the deploy button then you can test the functions which is defined in the contract.
 
 ```javascript
 // SPDX-License-Identifier: MIT
