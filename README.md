@@ -17,7 +17,7 @@ In this project also we are going create 4 functions which are: function mint, f
 
 To run this program, you need to install and open Remix - Ethereum IDE and Visual Studio Code next you need create a folder by the name "you can enter any name" in the Visual Studio Code then open a terminal then type npm install --global hardhat command after that type npx hardhat init command then it type npx hardhat node then it will ask you for Welcome to Hardhat v2.14.0
 
-? What do you want to do? ... 
+ What do you want to do? ... 
 > Create a JavaScript project
   Create a TypeScript project
   Create an empty hardhat.config.js
