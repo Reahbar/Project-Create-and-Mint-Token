@@ -24,8 +24,6 @@ To run this program, you need to install and open Remix - Ethereum IDE and Visua
   Quit
 > You can choose Create a JavaScript project then you need to type npx hardhat node then you will see bunch of accounts are opened. then open Remix - Ethereum IDE then create a file by any name in the end add .sol for an example Project.sol then pasted the down below code then you need compile by clicking on SOLIDITY COMPILER then you need to click on DEPLOY & RUN TRANSACTIONS then click on ENVIRONMENT then select the Dev - Hardhat Provide then you need to deploy the contract by clicking on the deploy button then you can test the functions which is defined in the contract.
 
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the following code into the file:
-
 ```javascript
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
